@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains the code for an external component of ESPHome that allows the integration of the PH4502C sensor for pH readings in water. The PH4502C sensor board operates at 5 volts, while the ESP32 works at a maximum voltage of 3.3 volts. Therefore, it is crucial to construct a voltage divider before connecting the sensor to the ESP32. This README provides a detailed guide on setting up the sensor, including a wiring diagram, calibration information, and ESPHome configuration examples.
+This repository contains the code for an external component of ESPHome that allows the integration of the PH4502C sensor for pH readings in water. The PH4502C sensor board operates at 5 volts, while the ESP32 works at a maximum voltage of 3.3 volts. Therefore, it is crucial to construct a voltage divider before connecting the sensor to the ESP32.
 
 ## Voltage Divider Warning
 
